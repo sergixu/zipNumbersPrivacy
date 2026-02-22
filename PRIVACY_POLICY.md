@@ -73,8 +73,9 @@ We may update this privacy policy from time to time. We will notify you of any c
 ## Contact Us
 
 If you have questions about this privacy policy, please contact us at:
-- Email: [your-email@example.com]
+- Email: [sergiu.matcovschii@gmail.com]
 
 ---
 
 By using ZIP Sequence Game, you agree to this privacy policy.
+
