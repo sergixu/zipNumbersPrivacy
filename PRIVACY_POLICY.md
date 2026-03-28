@@ -1,20 +1,24 @@
-# Privacy Policy for ZIP Numbers
+# Privacy Policy — Zip Numbers Connect and Solve
 
 **Last updated: March 2026**
 
-## Application and developer
+## Who we are (Google Play listing)
 
-This privacy policy applies to the Android application **ZIP Numbers**, distributed on Google Play under the store listing title **ZIP Numbers - Connect & Solve**. The application identifier (package name) is **com.jocnumere**.
+This privacy policy applies to the Android application listed on **Google Play** as:
 
-**Developer / data controller (operator):** **[Matcovschii Sergiu]** — use the **same** individual name or legal business name that appears on this app's Google Play store page (Play Console: the public developer name shown to users).
+- **App name:** **Zip Numbers Connect and Solve**
+- **Package / application ID:** **com.jocnumere**
+- **Developer / publisher (legal entity on Google Play):** **Matcovschii Sergiu**
 
-If you operate as a company, include the **registered legal entity name** (e.g. "Example Studio SRL") as it appears in your Play Console account or listing.
+The same app may appear on your device under the short name **ZIP Numbers**; it is the same application as **Zip Numbers Connect and Solve** above.
+
+**Data controller:** **Matcovschii Sergiu** (operator of **Zip Numbers Connect and Solve** on Google Play).
 
 ---
 
 ## Introduction
 
-ZIP Numbers ("we", "our", or "us") respects your privacy and is committed to protecting your personal data. This privacy policy explains how we collect, use, and safeguard your information when you use our mobile application **ZIP Numbers**.
+**Matcovschii Sergiu** (“we”, “our”, or “us”) respects your privacy. This policy explains how we collect, use, and safeguard information when you use **Zip Numbers Connect and Solve** (**ZIP Numbers**, package **com.jocnumere**).
 
 ## Information We Collect
 
@@ -82,9 +86,11 @@ We may update this privacy policy from time to time. We will notify you of any c
 
 ## Contact Us
 
-If you have questions about this privacy policy, please contact **ZIP Numbers** / **[Matcovschii Sergiu]** at:
-- Email: **[sergiu.matcovschii@gmail.com]**
+For **Zip Numbers Connect and Solve** (**com.jocnumere**), contact the developer **Matcovschii Sergiu**:
+
+- **Developer:** Matcovschii Sergiu  
+- **Email:** sergiu.matcovschii@gmail.com  
 
 ---
 
-By using **ZIP Numbers**, you agree to this privacy policy.
+By using **Zip Numbers Connect and Solve**, you agree to this privacy policy.
