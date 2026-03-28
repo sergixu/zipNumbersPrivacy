@@ -1,10 +1,20 @@
-# Privacy Policy for ZIP Sequence Game
+# Privacy Policy for ZIP Numbers
 
-**Last updated: February 2026**
+**Last updated: March 2026**
+
+## Application and developer
+
+This privacy policy applies to the Android application **ZIP Numbers**, distributed on Google Play under the store listing title **ZIP Numbers - Connect & Solve**. The application identifier (package name) is **com.jocnumere**.
+
+**Developer / data controller (operator):** **[Matcovschii Sergiu]** — use the **same** individual name or legal business name that appears on this app's Google Play store page (Play Console: the public developer name shown to users).
+
+If you operate as a company, include the **registered legal entity name** (e.g. "Example Studio SRL") as it appears in your Play Console account or listing.
+
+---
 
 ## Introduction
 
-ZIP Sequence Game ("we", "our", or "us") respects your privacy and is committed to protecting your personal data. This privacy policy explains how we collect, use, and safeguard your information when you use our mobile application.
+ZIP Numbers ("we", "our", or "us") respects your privacy and is committed to protecting your personal data. This privacy policy explains how we collect, use, and safeguard your information when you use our mobile application **ZIP Numbers**.
 
 ## Information We Collect
 
@@ -18,7 +28,7 @@ ZIP Sequence Game ("we", "our", or "us") respects your privacy and is committed 
   - Time spent in the app
   - Device type and operating system
   - General geographic location (country level)
-
+  
 ### Advertising
 We use Google AdMob to display advertisements. AdMob may collect:
 - Device identifiers
@@ -72,10 +82,9 @@ We may update this privacy policy from time to time. We will notify you of any c
 
 ## Contact Us
 
-If you have questions about this privacy policy, please contact us at:
-- Email: [sergiu.matcovschii@gmail.com]
+If you have questions about this privacy policy, please contact **ZIP Numbers** / **[Matcovschii Sergiu]** at:
+- Email: **[sergiu.matcovschii@gmail.com]**
 
 ---
 
-By using ZIP Sequence Game, you agree to this privacy policy.
-
+By using **ZIP Numbers**, you agree to this privacy policy.
